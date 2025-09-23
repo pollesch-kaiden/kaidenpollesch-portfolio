@@ -477,7 +477,7 @@ const mockProjects: Project[] = [
     ],
     skills: ["React", "Node.js", "TypeScript", "Tailwind CSS", "Vite", "Lucide-React", "Simple-Icons", "Vercel"],
     type: "personal",
-    status: "completed",
+    status: "in-progress",
     githubUrl: "https://github.com/pollesch-kaiden/TODO",
     fullDescription:
       "Created a personal portfolio website using React and Tailwind CSS to showcase a more indepth look at my resume including my projects, skills, and experience. The website has a modern design, responsive layout, and interactive elements. Implemented background in hex that follows the cursor, project filtering, and contact form functionality to provide a comprehensive overview of my work.",
