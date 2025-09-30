@@ -156,8 +156,10 @@ export default function About() {
                 <Badge variant="outline">Biking</Badge>
                 <Badge variant="outline">Disc Golfing</Badge>
                 <Badge variant="outline">Barefoot Water Ski</Badge>
+                <Badge variant="outline">Boating</Badge>
                 <Badge variant="outline">Light Engineering</Badge>
                 <Badge variant="outline">Soccer</Badge>
+                <Badge variant="outline">Hunting</Badge>
               </div>
             </CardContent>
           </Card>

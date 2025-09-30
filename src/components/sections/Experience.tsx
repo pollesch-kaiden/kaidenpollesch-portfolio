@@ -46,7 +46,7 @@ const mockExperiences: ExperienceItem[] = [
       " - Quality Assurance: Ran QA tests on electrical components with oscilloscopes & multimeters to validate motor performance and safety in high/low voltage conditions.",
       " - Data Analysis: Analyzed life-test data to diagnose irregularities, distinguishing hardware vs. external faults to guide troubleshooting.",
       " - Documentation: Authored technical docs for a test fixture to enable independent equipment operation and improve team efficiency.",
-      " - Hardware Rework: Soldered, reworked, and validated control boards for new projects, ensuring all connections met technical specs.IT ",
+      " - Hardware Rework: Soldered, reworked, and validated control boards for new projects, ensuring all connections met technical specs.",
     ],
     skills: [
       "MS Visual Studio",
